@@ -1,0 +1,1 @@
+Sveltekit Project to duplicate the Kipimo Soutions website
